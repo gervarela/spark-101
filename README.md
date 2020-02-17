@@ -1,6 +1,6 @@
 # Abordando el Big Data con Apache Spark
 
-Este repositorio contiene el código, datasets y ejemplos utilizados en la charla "Abordando el Big Data con Apache Spark" realizada por Gervasio Varela, responsable innovación en Redegal SL, en las jornadas DojoESEI e la Escosa Superior de Exeñería Informática de la Universidade de Vigo, en Ourense.
+Este repositorio contiene el código, datasets y ejemplos utilizados en la charla "Abordando el Big Data con Apache Spark" realizada por Gervasio Varela, responsable de innovación en Redegal SL, en las jornadas DojoESEI de la Escosa Superior de Exeñería Informática de la Universidade de Vigo, en Ourense.
 
 
 ## Descripción del contenido
